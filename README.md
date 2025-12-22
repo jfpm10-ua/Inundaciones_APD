@@ -3,7 +3,7 @@
 Proyecto centrado en la **obtención, preparación y transformación de datos** para la **predicción de inundaciones en zonas urbanas**, con el objetivo de facilitar el desarrollo de modelos predictivos precisos y sistemas de alerta temprana.
 
 ##  Integrantes
-- José Francisco Pérez Mompeán  
+- Jose Francisco Pérez Mompeán  
 - Gabriel Niculescu Ruso 
 - Jorge Soto Tripiana  
 
